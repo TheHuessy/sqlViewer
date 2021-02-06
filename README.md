@@ -7,3 +7,8 @@ Since I built the postgres server and have been able to hit it from other linux 
 * View results in the terminal window
 
 This is my Lazy Programmer way of fixing an annoying blocker.
+
+## Things to add:
+
+* Need to add row return limit, current code has issues with large row returns.
+
